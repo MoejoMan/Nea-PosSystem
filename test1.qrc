@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../../../OneDrive - Kesgrave High School/Pictures/90scomputers-freedos-1561697476.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>../../../../../OneDrive - Kesgrave High School/Pictures/Compaq-Computer-Corporation-portable-computer-IBM-weight-November-1982.webp</file>
+  </qresource>
+</RCC>

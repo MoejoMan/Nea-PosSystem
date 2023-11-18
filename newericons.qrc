@@ -1,0 +1,1154 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>feather/activity (2).svg</file>
+    <file>feather/activity.svg</file>
+    <file>feather/airplay (2).svg</file>
+    <file>feather/airplay.svg</file>
+    <file>feather/alert-circle (2).svg</file>
+    <file>feather/alert-circle.svg</file>
+    <file>feather/alert-octagon (2).svg</file>
+    <file>feather/alert-octagon.svg</file>
+    <file>feather/alert-triangle (2).svg</file>
+    <file>feather/alert-triangle.svg</file>
+    <file>feather/align-center (2).svg</file>
+    <file>feather/align-center.svg</file>
+    <file>feather/align-justify (2).svg</file>
+    <file>feather/align-justify.svg</file>
+    <file>feather/align-left (2).svg</file>
+    <file>feather/align-left.svg</file>
+    <file>feather/align-right (2).svg</file>
+    <file>feather/align-right.svg</file>
+    <file>feather/anchor (2).svg</file>
+    <file>feather/anchor.svg</file>
+    <file>feather/aperture (2).svg</file>
+    <file>feather/aperture.svg</file>
+    <file>feather/archive (2).svg</file>
+    <file>feather/archive.svg</file>
+    <file>feather/arrow-down (2).svg</file>
+    <file>feather/arrow-down.svg</file>
+    <file>feather/arrow-down-circle (2).svg</file>
+    <file>feather/arrow-down-circle.svg</file>
+    <file>feather/arrow-down-left (2).svg</file>
+    <file>feather/arrow-down-left.svg</file>
+    <file>feather/arrow-down-right (2).svg</file>
+    <file>feather/arrow-down-right.svg</file>
+    <file>feather/arrow-left (2).svg</file>
+    <file>feather/arrow-left.svg</file>
+    <file>feather/arrow-left-circle (2).svg</file>
+    <file>feather/arrow-left-circle.svg</file>
+    <file>feather/arrow-right (2).svg</file>
+    <file>feather/arrow-right.svg</file>
+    <file>feather/arrow-right-circle (2).svg</file>
+    <file>feather/arrow-right-circle.svg</file>
+    <file>feather/arrow-up (2).svg</file>
+    <file>feather/arrow-up.svg</file>
+    <file>feather/arrow-up-circle (2).svg</file>
+    <file>feather/arrow-up-circle.svg</file>
+    <file>feather/arrow-up-left (2).svg</file>
+    <file>feather/arrow-up-left.svg</file>
+    <file>feather/arrow-up-right (2).svg</file>
+    <file>feather/arrow-up-right.svg</file>
+    <file>feather/at-sign (2).svg</file>
+    <file>feather/at-sign.svg</file>
+    <file>feather/award (2).svg</file>
+    <file>feather/award.svg</file>
+    <file>feather/bar-chart (2).svg</file>
+    <file>feather/bar-chart.svg</file>
+    <file>feather/bar-chart-2 (2).svg</file>
+    <file>feather/bar-chart-2.svg</file>
+    <file>feather/battery (2).svg</file>
+    <file>feather/battery.svg</file>
+    <file>feather/battery-charging (2).svg</file>
+    <file>feather/battery-charging.svg</file>
+    <file>feather/bell (2).svg</file>
+    <file>feather/bell.svg</file>
+    <file>feather/bell-off (2).svg</file>
+    <file>feather/bell-off.svg</file>
+    <file>feather/bluetooth (2).svg</file>
+    <file>feather/bluetooth.svg</file>
+    <file>feather/bold (2).svg</file>
+    <file>feather/bold.svg</file>
+    <file>feather/book (2).svg</file>
+    <file>feather/book.svg</file>
+    <file>feather/bookmark (2).svg</file>
+    <file>feather/bookmark.svg</file>
+    <file>feather/book-open (2).svg</file>
+    <file>feather/book-open.svg</file>
+    <file>feather/box (2).svg</file>
+    <file>feather/box.svg</file>
+    <file>feather/briefcase (2).svg</file>
+    <file>feather/briefcase.svg</file>
+    <file>feather/calendar (2).svg</file>
+    <file>feather/calendar.svg</file>
+    <file>feather/camera (2).svg</file>
+    <file>feather/camera.svg</file>
+    <file>feather/camera-off (2).svg</file>
+    <file>feather/camera-off.svg</file>
+    <file>feather/cast (2).svg</file>
+    <file>feather/cast.svg</file>
+    <file>feather/check (2).svg</file>
+    <file>feather/check.svg</file>
+    <file>feather/check-circle (2).svg</file>
+    <file>feather/check-circle.svg</file>
+    <file>feather/check-square (2).svg</file>
+    <file>feather/check-square.svg</file>
+    <file>feather/chevron-down (2).svg</file>
+    <file>feather/chevron-down.svg</file>
+    <file>feather/chevron-left (2).svg</file>
+    <file>feather/chevron-left.svg</file>
+    <file>feather/chevron-right (2).svg</file>
+    <file>feather/chevron-right.svg</file>
+    <file>feather/chevrons-down (2).svg</file>
+    <file>feather/chevrons-down.svg</file>
+    <file>feather/chevrons-left (2).svg</file>
+    <file>feather/chevrons-left.svg</file>
+    <file>feather/chevrons-right (2).svg</file>
+    <file>feather/chevrons-right.svg</file>
+    <file>feather/chevrons-up (2).svg</file>
+    <file>feather/chevrons-up.svg</file>
+    <file>feather/chevron-up (2).svg</file>
+    <file>feather/chevron-up.svg</file>
+    <file>feather/chrome (2).svg</file>
+    <file>feather/chrome.svg</file>
+    <file>feather/circle (2).svg</file>
+    <file>feather/circle.svg</file>
+    <file>feather/clipboard (2).svg</file>
+    <file>feather/clipboard.svg</file>
+    <file>feather/clock (2).svg</file>
+    <file>feather/clock.svg</file>
+    <file>feather/cloud (2).svg</file>
+    <file>feather/cloud.svg</file>
+    <file>feather/cloud-drizzle (2).svg</file>
+    <file>feather/cloud-drizzle.svg</file>
+    <file>feather/cloud-lightning (2).svg</file>
+    <file>feather/cloud-lightning.svg</file>
+    <file>feather/cloud-off (2).svg</file>
+    <file>feather/cloud-off.svg</file>
+    <file>feather/cloud-rain (2).svg</file>
+    <file>feather/cloud-rain.svg</file>
+    <file>feather/cloud-snow (2).svg</file>
+    <file>feather/cloud-snow.svg</file>
+    <file>feather/code (2).svg</file>
+    <file>feather/code.svg</file>
+    <file>feather/codepen (2).svg</file>
+    <file>feather/codepen.svg</file>
+    <file>feather/codesandbox (2).svg</file>
+    <file>feather/codesandbox.svg</file>
+    <file>feather/coffee (2).svg</file>
+    <file>feather/coffee.svg</file>
+    <file>feather/columns (2).svg</file>
+    <file>feather/columns.svg</file>
+    <file>feather/command (2).svg</file>
+    <file>feather/command.svg</file>
+    <file>feather/compass (2).svg</file>
+    <file>feather/compass.svg</file>
+    <file>feather/copy (2).svg</file>
+    <file>feather/copy.svg</file>
+    <file>feather/corner-down-left (2).svg</file>
+    <file>feather/corner-down-left.svg</file>
+    <file>feather/corner-down-right (2).svg</file>
+    <file>feather/corner-down-right.svg</file>
+    <file>feather/corner-left-down (2).svg</file>
+    <file>feather/corner-left-down.svg</file>
+    <file>feather/corner-left-up (2).svg</file>
+    <file>feather/corner-left-up.svg</file>
+    <file>feather/corner-right-down (2).svg</file>
+    <file>feather/corner-right-down.svg</file>
+    <file>feather/corner-right-up (2).svg</file>
+    <file>feather/corner-right-up.svg</file>
+    <file>feather/corner-up-left (2).svg</file>
+    <file>feather/corner-up-left.svg</file>
+    <file>feather/corner-up-right (2).svg</file>
+    <file>feather/corner-up-right.svg</file>
+    <file>feather/cpu (2).svg</file>
+    <file>feather/cpu.svg</file>
+    <file>feather/credit-card (2).svg</file>
+    <file>feather/credit-card.svg</file>
+    <file>feather/crop (2).svg</file>
+    <file>feather/crop.svg</file>
+    <file>feather/crosshair (2).svg</file>
+    <file>feather/crosshair.svg</file>
+    <file>feather/database (2).svg</file>
+    <file>feather/database.svg</file>
+    <file>feather/delete (2).svg</file>
+    <file>feather/delete.svg</file>
+    <file>feather/disc (2).svg</file>
+    <file>feather/disc.svg</file>
+    <file>feather/divide (2).svg</file>
+    <file>feather/divide.svg</file>
+    <file>feather/divide-circle (2).svg</file>
+    <file>feather/divide-circle.svg</file>
+    <file>feather/divide-square (2).svg</file>
+    <file>feather/divide-square.svg</file>
+    <file>feather/dollar-sign (2).svg</file>
+    <file>feather/dollar-sign.svg</file>
+    <file>feather/download (2).svg</file>
+    <file>feather/download.svg</file>
+    <file>feather/download-cloud (2).svg</file>
+    <file>feather/download-cloud.svg</file>
+    <file>feather/dribbble (2).svg</file>
+    <file>feather/dribbble.svg</file>
+    <file>feather/droplet (2).svg</file>
+    <file>feather/droplet.svg</file>
+    <file>feather/edit (2).svg</file>
+    <file>feather/edit.svg</file>
+    <file>feather/edit-2 (2).svg</file>
+    <file>feather/edit-2.svg</file>
+    <file>feather/edit-3 (2).svg</file>
+    <file>feather/edit-3.svg</file>
+    <file>feather/external-link (2).svg</file>
+    <file>feather/external-link.svg</file>
+    <file>feather/eye (2).svg</file>
+    <file>feather/eye.svg</file>
+    <file>feather/eye-off (2).svg</file>
+    <file>feather/eye-off.svg</file>
+    <file>feather/facebook (2).svg</file>
+    <file>feather/facebook.svg</file>
+    <file>feather/fast-forward (2).svg</file>
+    <file>feather/fast-forward.svg</file>
+    <file>feather/feather (2).svg</file>
+    <file>feather/feather.svg</file>
+    <file>feather/figma (2).svg</file>
+    <file>feather/figma.svg</file>
+    <file>feather/file (2).svg</file>
+    <file>feather/file.svg</file>
+    <file>feather/file-minus (2).svg</file>
+    <file>feather/file-minus.svg</file>
+    <file>feather/file-plus (2).svg</file>
+    <file>feather/file-plus.svg</file>
+    <file>feather/file-text (2).svg</file>
+    <file>feather/file-text.svg</file>
+    <file>feather/film (2).svg</file>
+    <file>feather/film.svg</file>
+    <file>feather/filter (2).svg</file>
+    <file>feather/filter.svg</file>
+    <file>feather/flag (2).svg</file>
+    <file>feather/flag.svg</file>
+    <file>feather/folder (2).svg</file>
+    <file>feather/folder.svg</file>
+    <file>feather/folder-minus (2).svg</file>
+    <file>feather/folder-minus.svg</file>
+    <file>feather/folder-plus (2).svg</file>
+    <file>feather/folder-plus.svg</file>
+    <file>feather/framer (2).svg</file>
+    <file>feather/framer.svg</file>
+    <file>feather/frown (2).svg</file>
+    <file>feather/frown.svg</file>
+    <file>feather/gift (2).svg</file>
+    <file>feather/gift.svg</file>
+    <file>feather/git-branch (2).svg</file>
+    <file>feather/git-branch.svg</file>
+    <file>feather/git-commit (2).svg</file>
+    <file>feather/git-commit.svg</file>
+    <file>feather/github (2).svg</file>
+    <file>feather/github.svg</file>
+    <file>feather/gitlab (2).svg</file>
+    <file>feather/gitlab.svg</file>
+    <file>feather/git-merge (2).svg</file>
+    <file>feather/git-merge.svg</file>
+    <file>feather/git-pull-request (2).svg</file>
+    <file>feather/git-pull-request.svg</file>
+    <file>feather/globe (2).svg</file>
+    <file>feather/globe.svg</file>
+    <file>feather/grid (2).svg</file>
+    <file>feather/grid.svg</file>
+    <file>feather/hard-drive (2).svg</file>
+    <file>feather/hard-drive.svg</file>
+    <file>feather/hash (2).svg</file>
+    <file>feather/hash.svg</file>
+    <file>feather/headphones (2).svg</file>
+    <file>feather/headphones.svg</file>
+    <file>feather/heart (2).svg</file>
+    <file>feather/heart.svg</file>
+    <file>feather/help-circle (2).svg</file>
+    <file>feather/help-circle.svg</file>
+    <file>feather/hexagon (2).svg</file>
+    <file>feather/hexagon.svg</file>
+    <file>feather/home (2).svg</file>
+    <file>feather/home.svg</file>
+    <file>feather/image (2).svg</file>
+    <file>feather/image.svg</file>
+    <file>feather/inbox (2).svg</file>
+    <file>feather/inbox.svg</file>
+    <file>feather/info (2).svg</file>
+    <file>feather/info.svg</file>
+    <file>feather/instagram (2).svg</file>
+    <file>feather/instagram.svg</file>
+    <file>feather/italic (2).svg</file>
+    <file>feather/italic.svg</file>
+    <file>feather/key (2).svg</file>
+    <file>feather/key.svg</file>
+    <file>feather/layers (2).svg</file>
+    <file>feather/layers.svg</file>
+    <file>feather/layout (2).svg</file>
+    <file>feather/layout.svg</file>
+    <file>feather/life-buoy (2).svg</file>
+    <file>feather/life-buoy.svg</file>
+    <file>feather/link (2).svg</file>
+    <file>feather/link.svg</file>
+    <file>feather/link-2 (2).svg</file>
+    <file>feather/link-2.svg</file>
+    <file>feather/linkedin (2).svg</file>
+    <file>feather/linkedin.svg</file>
+    <file>feather/list (2).svg</file>
+    <file>feather/list.svg</file>
+    <file>feather/loader (2).svg</file>
+    <file>feather/loader.svg</file>
+    <file>feather/lock (2).svg</file>
+    <file>feather/lock.svg</file>
+    <file>feather/log-in (2).svg</file>
+    <file>feather/log-in.svg</file>
+    <file>feather/log-out (2).svg</file>
+    <file>feather/log-out.svg</file>
+    <file>feather/mail (2).svg</file>
+    <file>feather/mail.svg</file>
+    <file>feather/map (2).svg</file>
+    <file>feather/map.svg</file>
+    <file>feather/map-pin (2).svg</file>
+    <file>feather/map-pin.svg</file>
+    <file>feather/maximize (2).svg</file>
+    <file>feather/maximize.svg</file>
+    <file>feather/maximize-2 (2).svg</file>
+    <file>feather/maximize-2.svg</file>
+    <file>feather/meh (2).svg</file>
+    <file>feather/meh.svg</file>
+    <file>feather/menu (2).svg</file>
+    <file>feather/menu.svg</file>
+    <file>feather/message-circle (2).svg</file>
+    <file>feather/message-circle.svg</file>
+    <file>feather/message-square (2).svg</file>
+    <file>feather/message-square.svg</file>
+    <file>feather/mic (2).svg</file>
+    <file>feather/mic.svg</file>
+    <file>feather/mic-off (2).svg</file>
+    <file>feather/mic-off.svg</file>
+    <file>feather/minimize (2).svg</file>
+    <file>feather/minimize.svg</file>
+    <file>feather/minimize-2 (2).svg</file>
+    <file>feather/minimize-2.svg</file>
+    <file>feather/minus (2).svg</file>
+    <file>feather/minus.svg</file>
+    <file>feather/minus-circle (2).svg</file>
+    <file>feather/minus-circle.svg</file>
+    <file>feather/minus-square (2).svg</file>
+    <file>feather/minus-square.svg</file>
+    <file>feather/monitor (2).svg</file>
+    <file>feather/monitor.svg</file>
+    <file>feather/moon (2).svg</file>
+    <file>feather/moon.svg</file>
+    <file>feather/more-horizontal (2).svg</file>
+    <file>feather/more-horizontal.svg</file>
+    <file>feather/more-vertical (2).svg</file>
+    <file>feather/more-vertical.svg</file>
+    <file>feather/mouse-pointer (2).svg</file>
+    <file>feather/mouse-pointer.svg</file>
+    <file>feather/move (2).svg</file>
+    <file>feather/move.svg</file>
+    <file>feather/music (2).svg</file>
+    <file>feather/music.svg</file>
+    <file>feather/navigation (2).svg</file>
+    <file>feather/navigation.svg</file>
+    <file>feather/navigation-2 (2).svg</file>
+    <file>feather/navigation-2.svg</file>
+    <file>feather/octagon (2).svg</file>
+    <file>feather/octagon.svg</file>
+    <file>feather/package (2).svg</file>
+    <file>feather/package.svg</file>
+    <file>feather/paperclip (2).svg</file>
+    <file>feather/paperclip.svg</file>
+    <file>feather/pause (2).svg</file>
+    <file>feather/pause.svg</file>
+    <file>feather/pause-circle (2).svg</file>
+    <file>feather/pause-circle.svg</file>
+    <file>feather/pen-tool (2).svg</file>
+    <file>feather/pen-tool.svg</file>
+    <file>feather/percent (2).svg</file>
+    <file>feather/percent.svg</file>
+    <file>feather/phone (2).svg</file>
+    <file>feather/phone.svg</file>
+    <file>feather/phone-call (2).svg</file>
+    <file>feather/phone-call.svg</file>
+    <file>feather/phone-forwarded (2).svg</file>
+    <file>feather/phone-forwarded.svg</file>
+    <file>feather/phone-incoming (2).svg</file>
+    <file>feather/phone-incoming.svg</file>
+    <file>feather/phone-missed (2).svg</file>
+    <file>feather/phone-missed.svg</file>
+    <file>feather/phone-off (2).svg</file>
+    <file>feather/phone-off.svg</file>
+    <file>feather/phone-outgoing (2).svg</file>
+    <file>feather/phone-outgoing.svg</file>
+    <file>feather/pie-chart (2).svg</file>
+    <file>feather/pie-chart.svg</file>
+    <file>feather/play (2).svg</file>
+    <file>feather/play.svg</file>
+    <file>feather/play-circle (2).svg</file>
+    <file>feather/play-circle.svg</file>
+    <file>feather/plus (2).svg</file>
+    <file>feather/plus.svg</file>
+    <file>feather/plus-circle (2).svg</file>
+    <file>feather/plus-circle.svg</file>
+    <file>feather/plus-square (2).svg</file>
+    <file>feather/plus-square.svg</file>
+    <file>feather/pocket (2).svg</file>
+    <file>feather/pocket.svg</file>
+    <file>feather/power (2).svg</file>
+    <file>feather/power.svg</file>
+    <file>feather/printer (2).svg</file>
+    <file>feather/printer.svg</file>
+    <file>feather/radio (2).svg</file>
+    <file>feather/radio.svg</file>
+    <file>feather/refresh-ccw (2).svg</file>
+    <file>feather/refresh-ccw.svg</file>
+    <file>feather/refresh-cw (2).svg</file>
+    <file>feather/refresh-cw.svg</file>
+    <file>feather/repeat (2).svg</file>
+    <file>feather/repeat.svg</file>
+    <file>feather/rewind (2).svg</file>
+    <file>feather/rewind.svg</file>
+    <file>feather/rotate-ccw (2).svg</file>
+    <file>feather/rotate-ccw.svg</file>
+    <file>feather/rotate-cw (2).svg</file>
+    <file>feather/rotate-cw.svg</file>
+    <file>feather/rss (2).svg</file>
+    <file>feather/rss.svg</file>
+    <file>feather/save (2).svg</file>
+    <file>feather/save.svg</file>
+    <file>feather/scissors (2).svg</file>
+    <file>feather/scissors.svg</file>
+    <file>feather/search (2).svg</file>
+    <file>feather/search.svg</file>
+    <file>feather/send (2).svg</file>
+    <file>feather/send.svg</file>
+    <file>feather/server (2).svg</file>
+    <file>feather/server.svg</file>
+    <file>feather/settings (2).svg</file>
+    <file>feather/settings.svg</file>
+    <file>feather/share (2).svg</file>
+    <file>feather/share.svg</file>
+    <file>feather/share-2 (2).svg</file>
+    <file>feather/share-2.svg</file>
+    <file>feather/shield (2).svg</file>
+    <file>feather/shield.svg</file>
+    <file>feather/shield-off (2).svg</file>
+    <file>feather/shield-off.svg</file>
+    <file>feather/shopping-bag (2).svg</file>
+    <file>feather/shopping-bag.svg</file>
+    <file>feather/shopping-cart (2).svg</file>
+    <file>feather/shopping-cart.svg</file>
+    <file>feather/shuffle (2).svg</file>
+    <file>feather/shuffle.svg</file>
+    <file>feather/sidebar (2).svg</file>
+    <file>feather/sidebar.svg</file>
+    <file>feather/skip-back (2).svg</file>
+    <file>feather/skip-back.svg</file>
+    <file>feather/skip-forward (2).svg</file>
+    <file>feather/skip-forward.svg</file>
+    <file>feather/slack (2).svg</file>
+    <file>feather/slack.svg</file>
+    <file>feather/slash (2).svg</file>
+    <file>feather/slash.svg</file>
+    <file>feather/sliders (2).svg</file>
+    <file>feather/sliders.svg</file>
+    <file>feather/smartphone (2).svg</file>
+    <file>feather/smartphone.svg</file>
+    <file>feather/smile (2).svg</file>
+    <file>feather/smile.svg</file>
+    <file>feather/speaker (2).svg</file>
+    <file>feather/speaker.svg</file>
+    <file>feather/square (2).svg</file>
+    <file>feather/square.svg</file>
+    <file>feather/star (2).svg</file>
+    <file>feather/star.svg</file>
+    <file>feather/stop-circle (2).svg</file>
+    <file>feather/stop-circle.svg</file>
+    <file>feather/sun (2).svg</file>
+    <file>feather/sun.svg</file>
+    <file>feather/sunrise (2).svg</file>
+    <file>feather/sunrise.svg</file>
+    <file>feather/sunset (2).svg</file>
+    <file>feather/sunset.svg</file>
+    <file>feather/table (2).svg</file>
+    <file>feather/table.svg</file>
+    <file>feather/tablet (2).svg</file>
+    <file>feather/tablet.svg</file>
+    <file>feather/tag (2).svg</file>
+    <file>feather/tag.svg</file>
+    <file>feather/target (2).svg</file>
+    <file>feather/target.svg</file>
+    <file>feather/terminal (2).svg</file>
+    <file>feather/terminal.svg</file>
+    <file>feather/thermometer (2).svg</file>
+    <file>feather/thermometer.svg</file>
+    <file>feather/thumbs-down (2).svg</file>
+    <file>feather/thumbs-down.svg</file>
+    <file>feather/thumbs-up (2).svg</file>
+    <file>feather/thumbs-up.svg</file>
+    <file>feather/toggle-left (2).svg</file>
+    <file>feather/toggle-left.svg</file>
+    <file>feather/toggle-right (2).svg</file>
+    <file>feather/toggle-right.svg</file>
+    <file>feather/tool (2).svg</file>
+    <file>feather/tool.svg</file>
+    <file>feather/trash (2).svg</file>
+    <file>feather/trash.svg</file>
+    <file>feather/trash-2 (2).svg</file>
+    <file>feather/trash-2.svg</file>
+    <file>feather/trello (2).svg</file>
+    <file>feather/trello.svg</file>
+    <file>feather/trending-down (2).svg</file>
+    <file>feather/trending-down.svg</file>
+    <file>feather/trending-up (2).svg</file>
+    <file>feather/trending-up.svg</file>
+    <file>feather/triangle (2).svg</file>
+    <file>feather/triangle.svg</file>
+    <file>feather/truck (2).svg</file>
+    <file>feather/truck.svg</file>
+    <file>feather/tv (2).svg</file>
+    <file>feather/tv.svg</file>
+    <file>feather/twitch (2).svg</file>
+    <file>feather/twitch.svg</file>
+    <file>feather/twitter (2).svg</file>
+    <file>feather/twitter.svg</file>
+    <file>feather/type (2).svg</file>
+    <file>feather/type.svg</file>
+    <file>feather/umbrella (2).svg</file>
+    <file>feather/umbrella.svg</file>
+    <file>feather/underline (2).svg</file>
+    <file>feather/underline.svg</file>
+    <file>feather/unlock (2).svg</file>
+    <file>feather/unlock.svg</file>
+    <file>feather/upload (2).svg</file>
+    <file>feather/upload.svg</file>
+    <file>feather/upload-cloud (2).svg</file>
+    <file>feather/upload-cloud.svg</file>
+    <file>feather/user (2).svg</file>
+    <file>feather/user.svg</file>
+    <file>feather/user-check (2).svg</file>
+    <file>feather/user-check.svg</file>
+    <file>feather/user-minus (2).svg</file>
+    <file>feather/user-minus.svg</file>
+    <file>feather/user-plus (2).svg</file>
+    <file>feather/user-plus.svg</file>
+    <file>feather/users (2).svg</file>
+    <file>feather/users.svg</file>
+    <file>feather/user-x (2).svg</file>
+    <file>feather/user-x.svg</file>
+    <file>feather/video (2).svg</file>
+    <file>feather/video.svg</file>
+    <file>feather/video-off (2).svg</file>
+    <file>feather/video-off.svg</file>
+    <file>feather/voicemail (2).svg</file>
+    <file>feather/voicemail.svg</file>
+    <file>feather/volume (2).svg</file>
+    <file>feather/volume.svg</file>
+    <file>feather/volume-1 (2).svg</file>
+    <file>feather/volume-1.svg</file>
+    <file>feather/volume-2 (2).svg</file>
+    <file>feather/volume-2.svg</file>
+    <file>feather/volume-x (2).svg</file>
+    <file>feather/volume-x.svg</file>
+    <file>feather/watch (2).svg</file>
+    <file>feather/watch.svg</file>
+    <file>feather/wifi (2).svg</file>
+    <file>feather/wifi.svg</file>
+    <file>feather/wifi-off (2).svg</file>
+    <file>feather/wifi-off.svg</file>
+    <file>feather/wind (2).svg</file>
+    <file>feather/wind.svg</file>
+    <file>feather/x (2).svg</file>
+    <file>feather/x.svg</file>
+    <file>feather/x-circle (2).svg</file>
+    <file>feather/x-circle.svg</file>
+    <file>feather/x-octagon (2).svg</file>
+    <file>feather/x-octagon.svg</file>
+    <file>feather/x-square (2).svg</file>
+    <file>feather/x-square.svg</file>
+    <file>feather/youtube (2).svg</file>
+    <file>feather/youtube.svg</file>
+    <file>feather/zap (2).svg</file>
+    <file>feather/zap.svg</file>
+    <file>feather/zap-off (2).svg</file>
+    <file>feather/zap-off.svg</file>
+    <file>feather/zoom-in (2).svg</file>
+    <file>feather/zoom-in.svg</file>
+    <file>feather/zoom-out (2).svg</file>
+    <file>feather/zoom-out.svg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>feather/activity (2).svg</file>
+    <file>feather/activity.svg</file>
+    <file>feather/airplay (2).svg</file>
+    <file>feather/airplay.svg</file>
+    <file>feather/alert-circle (2).svg</file>
+    <file>feather/alert-circle.svg</file>
+    <file>feather/alert-octagon (2).svg</file>
+    <file>feather/alert-octagon.svg</file>
+    <file>feather/alert-triangle (2).svg</file>
+    <file>feather/alert-triangle.svg</file>
+    <file>feather/align-center (2).svg</file>
+    <file>feather/align-center.svg</file>
+    <file>feather/align-justify (2).svg</file>
+    <file>feather/align-justify.svg</file>
+    <file>feather/align-left (2).svg</file>
+    <file>feather/align-left.svg</file>
+    <file>feather/align-right (2).svg</file>
+    <file>feather/align-right.svg</file>
+    <file>feather/anchor (2).svg</file>
+    <file>feather/anchor.svg</file>
+    <file>feather/aperture (2).svg</file>
+    <file>feather/aperture.svg</file>
+    <file>feather/archive (2).svg</file>
+    <file>feather/archive.svg</file>
+    <file>feather/arrow-down (2).svg</file>
+    <file>feather/arrow-down.svg</file>
+    <file>feather/arrow-down-circle (2).svg</file>
+    <file>feather/arrow-down-circle.svg</file>
+    <file>feather/arrow-down-left (2).svg</file>
+    <file>feather/arrow-down-left.svg</file>
+    <file>feather/arrow-down-right (2).svg</file>
+    <file>feather/arrow-down-right.svg</file>
+    <file>feather/arrow-left (2).svg</file>
+    <file>feather/arrow-left.svg</file>
+    <file>feather/arrow-left-circle (2).svg</file>
+    <file>feather/arrow-left-circle.svg</file>
+    <file>feather/arrow-right (2).svg</file>
+    <file>feather/arrow-right.svg</file>
+    <file>feather/arrow-right-circle (2).svg</file>
+    <file>feather/arrow-right-circle.svg</file>
+    <file>feather/arrow-up (2).svg</file>
+    <file>feather/arrow-up.svg</file>
+    <file>feather/arrow-up-circle (2).svg</file>
+    <file>feather/arrow-up-circle.svg</file>
+    <file>feather/arrow-up-left (2).svg</file>
+    <file>feather/arrow-up-left.svg</file>
+    <file>feather/arrow-up-right (2).svg</file>
+    <file>feather/arrow-up-right.svg</file>
+    <file>feather/at-sign (2).svg</file>
+    <file>feather/at-sign.svg</file>
+    <file>feather/award (2).svg</file>
+    <file>feather/award.svg</file>
+    <file>feather/bar-chart (2).svg</file>
+    <file>feather/bar-chart.svg</file>
+    <file>feather/bar-chart-2 (2).svg</file>
+    <file>feather/bar-chart-2.svg</file>
+    <file>feather/battery (2).svg</file>
+    <file>feather/battery.svg</file>
+    <file>feather/battery-charging (2).svg</file>
+    <file>feather/battery-charging.svg</file>
+    <file>feather/bell (2).svg</file>
+    <file>feather/bell.svg</file>
+    <file>feather/bell-off (2).svg</file>
+    <file>feather/bell-off.svg</file>
+    <file>feather/bluetooth (2).svg</file>
+    <file>feather/bluetooth.svg</file>
+    <file>feather/bold (2).svg</file>
+    <file>feather/bold.svg</file>
+    <file>feather/book (2).svg</file>
+    <file>feather/book.svg</file>
+    <file>feather/bookmark (2).svg</file>
+    <file>feather/bookmark.svg</file>
+    <file>feather/book-open (2).svg</file>
+    <file>feather/book-open.svg</file>
+    <file>feather/box (2).svg</file>
+    <file>feather/box.svg</file>
+    <file>feather/briefcase (2).svg</file>
+    <file>feather/briefcase.svg</file>
+    <file>feather/calendar (2).svg</file>
+    <file>feather/calendar.svg</file>
+    <file>feather/camera (2).svg</file>
+    <file>feather/camera.svg</file>
+    <file>feather/camera-off (2).svg</file>
+    <file>feather/camera-off.svg</file>
+    <file>feather/cast (2).svg</file>
+    <file>feather/cast.svg</file>
+    <file>feather/check (2).svg</file>
+    <file>feather/check.svg</file>
+    <file>feather/check-circle (2).svg</file>
+    <file>feather/check-circle.svg</file>
+    <file>feather/check-square (2).svg</file>
+    <file>feather/check-square.svg</file>
+    <file>feather/chevron-down (2).svg</file>
+    <file>feather/chevron-down.svg</file>
+    <file>feather/chevron-left (2).svg</file>
+    <file>feather/chevron-left.svg</file>
+    <file>feather/chevron-right (2).svg</file>
+    <file>feather/chevron-right.svg</file>
+    <file>feather/chevrons-down (2).svg</file>
+    <file>feather/chevrons-down.svg</file>
+    <file>feather/chevrons-left (2).svg</file>
+    <file>feather/chevrons-left.svg</file>
+    <file>feather/chevrons-right (2).svg</file>
+    <file>feather/chevrons-right.svg</file>
+    <file>feather/chevrons-up (2).svg</file>
+    <file>feather/chevrons-up.svg</file>
+    <file>feather/chevron-up (2).svg</file>
+    <file>feather/chevron-up.svg</file>
+    <file>feather/chrome (2).svg</file>
+    <file>feather/chrome.svg</file>
+    <file>feather/circle (2).svg</file>
+    <file>feather/circle.svg</file>
+    <file>feather/clipboard (2).svg</file>
+    <file>feather/clipboard.svg</file>
+    <file>feather/clock (2).svg</file>
+    <file>feather/clock.svg</file>
+    <file>feather/cloud (2).svg</file>
+    <file>feather/cloud.svg</file>
+    <file>feather/cloud-drizzle (2).svg</file>
+    <file>feather/cloud-drizzle.svg</file>
+    <file>feather/cloud-lightning (2).svg</file>
+    <file>feather/cloud-lightning.svg</file>
+    <file>feather/cloud-off (2).svg</file>
+    <file>feather/cloud-off.svg</file>
+    <file>feather/cloud-rain (2).svg</file>
+    <file>feather/cloud-rain.svg</file>
+    <file>feather/cloud-snow (2).svg</file>
+    <file>feather/cloud-snow.svg</file>
+    <file>feather/code (2).svg</file>
+    <file>feather/code.svg</file>
+    <file>feather/codepen (2).svg</file>
+    <file>feather/codepen.svg</file>
+    <file>feather/codesandbox (2).svg</file>
+    <file>feather/codesandbox.svg</file>
+    <file>feather/coffee (2).svg</file>
+    <file>feather/coffee.svg</file>
+    <file>feather/columns (2).svg</file>
+    <file>feather/columns.svg</file>
+    <file>feather/command (2).svg</file>
+    <file>feather/command.svg</file>
+    <file>feather/compass (2).svg</file>
+    <file>feather/compass.svg</file>
+    <file>feather/copy (2).svg</file>
+    <file>feather/copy.svg</file>
+    <file>feather/corner-down-left (2).svg</file>
+    <file>feather/corner-down-left.svg</file>
+    <file>feather/corner-down-right (2).svg</file>
+    <file>feather/corner-down-right.svg</file>
+    <file>feather/corner-left-down (2).svg</file>
+    <file>feather/corner-left-down.svg</file>
+    <file>feather/corner-left-up (2).svg</file>
+    <file>feather/corner-left-up.svg</file>
+    <file>feather/corner-right-down (2).svg</file>
+    <file>feather/corner-right-down.svg</file>
+    <file>feather/corner-right-up (2).svg</file>
+    <file>feather/corner-right-up.svg</file>
+    <file>feather/corner-up-left (2).svg</file>
+    <file>feather/corner-up-left.svg</file>
+    <file>feather/corner-up-right (2).svg</file>
+    <file>feather/corner-up-right.svg</file>
+    <file>feather/cpu (2).svg</file>
+    <file>feather/cpu.svg</file>
+    <file>feather/credit-card (2).svg</file>
+    <file>feather/credit-card.svg</file>
+    <file>feather/crop (2).svg</file>
+    <file>feather/crop.svg</file>
+    <file>feather/crosshair (2).svg</file>
+    <file>feather/crosshair.svg</file>
+    <file>feather/database (2).svg</file>
+    <file>feather/database.svg</file>
+    <file>feather/delete (2).svg</file>
+    <file>feather/delete.svg</file>
+    <file>feather/disc (2).svg</file>
+    <file>feather/disc.svg</file>
+    <file>feather/divide (2).svg</file>
+    <file>feather/divide.svg</file>
+    <file>feather/divide-circle (2).svg</file>
+    <file>feather/divide-circle.svg</file>
+    <file>feather/divide-square (2).svg</file>
+    <file>feather/divide-square.svg</file>
+    <file>feather/dollar-sign (2).svg</file>
+    <file>feather/dollar-sign.svg</file>
+    <file>feather/download (2).svg</file>
+    <file>feather/download.svg</file>
+    <file>feather/download-cloud (2).svg</file>
+    <file>feather/download-cloud.svg</file>
+    <file>feather/dribbble (2).svg</file>
+    <file>feather/dribbble.svg</file>
+    <file>feather/droplet (2).svg</file>
+    <file>feather/droplet.svg</file>
+    <file>feather/edit (2).svg</file>
+    <file>feather/edit.svg</file>
+    <file>feather/edit-2 (2).svg</file>
+    <file>feather/edit-2.svg</file>
+    <file>feather/edit-3 (2).svg</file>
+    <file>feather/edit-3.svg</file>
+    <file>feather/external-link (2).svg</file>
+    <file>feather/external-link.svg</file>
+    <file>feather/eye (2).svg</file>
+    <file>feather/eye.svg</file>
+    <file>feather/eye-off (2).svg</file>
+    <file>feather/eye-off.svg</file>
+    <file>feather/facebook (2).svg</file>
+    <file>feather/facebook.svg</file>
+    <file>feather/fast-forward (2).svg</file>
+    <file>feather/fast-forward.svg</file>
+    <file>feather/feather (2).svg</file>
+    <file>feather/feather.svg</file>
+    <file>feather/figma (2).svg</file>
+    <file>feather/figma.svg</file>
+    <file>feather/file (2).svg</file>
+    <file>feather/file.svg</file>
+    <file>feather/file-minus (2).svg</file>
+    <file>feather/file-minus.svg</file>
+    <file>feather/file-plus (2).svg</file>
+    <file>feather/file-plus.svg</file>
+    <file>feather/file-text (2).svg</file>
+    <file>feather/file-text.svg</file>
+    <file>feather/film (2).svg</file>
+    <file>feather/film.svg</file>
+    <file>feather/filter (2).svg</file>
+    <file>feather/filter.svg</file>
+    <file>feather/flag (2).svg</file>
+    <file>feather/flag.svg</file>
+    <file>feather/folder (2).svg</file>
+    <file>feather/folder.svg</file>
+    <file>feather/folder-minus (2).svg</file>
+    <file>feather/folder-minus.svg</file>
+    <file>feather/folder-plus (2).svg</file>
+    <file>feather/folder-plus.svg</file>
+    <file>feather/framer (2).svg</file>
+    <file>feather/framer.svg</file>
+    <file>feather/frown (2).svg</file>
+    <file>feather/frown.svg</file>
+    <file>feather/gift (2).svg</file>
+    <file>feather/gift.svg</file>
+    <file>feather/git-branch (2).svg</file>
+    <file>feather/git-branch.svg</file>
+    <file>feather/git-commit (2).svg</file>
+    <file>feather/git-commit.svg</file>
+    <file>feather/github (2).svg</file>
+    <file>feather/github.svg</file>
+    <file>feather/gitlab (2).svg</file>
+    <file>feather/gitlab.svg</file>
+    <file>feather/git-merge (2).svg</file>
+    <file>feather/git-merge.svg</file>
+    <file>feather/git-pull-request (2).svg</file>
+    <file>feather/git-pull-request.svg</file>
+    <file>feather/globe (2).svg</file>
+    <file>feather/globe.svg</file>
+    <file>feather/grid (2).svg</file>
+    <file>feather/grid.svg</file>
+    <file>feather/hard-drive (2).svg</file>
+    <file>feather/hard-drive.svg</file>
+    <file>feather/hash (2).svg</file>
+    <file>feather/hash.svg</file>
+    <file>feather/headphones (2).svg</file>
+    <file>feather/headphones.svg</file>
+    <file>feather/heart (2).svg</file>
+    <file>feather/heart.svg</file>
+    <file>feather/help-circle (2).svg</file>
+    <file>feather/help-circle.svg</file>
+    <file>feather/hexagon (2).svg</file>
+    <file>feather/hexagon.svg</file>
+    <file>feather/home (2).svg</file>
+    <file>feather/home.svg</file>
+    <file>feather/image (2).svg</file>
+    <file>feather/image.svg</file>
+    <file>feather/inbox (2).svg</file>
+    <file>feather/inbox.svg</file>
+    <file>feather/info (2).svg</file>
+    <file>feather/info.svg</file>
+    <file>feather/instagram (2).svg</file>
+    <file>feather/instagram.svg</file>
+    <file>feather/italic (2).svg</file>
+    <file>feather/italic.svg</file>
+    <file>feather/key (2).svg</file>
+    <file>feather/key.svg</file>
+    <file>feather/layers (2).svg</file>
+    <file>feather/layers.svg</file>
+    <file>feather/layout (2).svg</file>
+    <file>feather/layout.svg</file>
+    <file>feather/life-buoy (2).svg</file>
+    <file>feather/life-buoy.svg</file>
+    <file>feather/link (2).svg</file>
+    <file>feather/link.svg</file>
+    <file>feather/link-2 (2).svg</file>
+    <file>feather/link-2.svg</file>
+    <file>feather/linkedin (2).svg</file>
+    <file>feather/linkedin.svg</file>
+    <file>feather/list (2).svg</file>
+    <file>feather/list.svg</file>
+    <file>feather/loader (2).svg</file>
+    <file>feather/loader.svg</file>
+    <file>feather/lock (2).svg</file>
+    <file>feather/lock.svg</file>
+    <file>feather/log-in (2).svg</file>
+    <file>feather/log-in.svg</file>
+    <file>feather/log-out (2).svg</file>
+    <file>feather/log-out.svg</file>
+    <file>feather/mail (2).svg</file>
+    <file>feather/mail.svg</file>
+    <file>feather/map (2).svg</file>
+    <file>feather/map.svg</file>
+    <file>feather/map-pin (2).svg</file>
+    <file>feather/map-pin.svg</file>
+    <file>feather/maximize (2).svg</file>
+    <file>feather/maximize.svg</file>
+    <file>feather/maximize-2 (2).svg</file>
+    <file>feather/maximize-2.svg</file>
+    <file>feather/meh (2).svg</file>
+    <file>feather/meh.svg</file>
+    <file>feather/menu (2).svg</file>
+    <file>feather/menu.svg</file>
+    <file>feather/message-circle (2).svg</file>
+    <file>feather/message-circle.svg</file>
+    <file>feather/message-square (2).svg</file>
+    <file>feather/message-square.svg</file>
+    <file>feather/mic (2).svg</file>
+    <file>feather/mic.svg</file>
+    <file>feather/mic-off (2).svg</file>
+    <file>feather/mic-off.svg</file>
+    <file>feather/minimize (2).svg</file>
+    <file>feather/minimize.svg</file>
+    <file>feather/minimize-2 (2).svg</file>
+    <file>feather/minimize-2.svg</file>
+    <file>feather/minus (2).svg</file>
+    <file>feather/minus.svg</file>
+    <file>feather/minus-circle (2).svg</file>
+    <file>feather/minus-circle.svg</file>
+    <file>feather/minus-square (2).svg</file>
+    <file>feather/minus-square.svg</file>
+    <file>feather/monitor (2).svg</file>
+    <file>feather/monitor.svg</file>
+    <file>feather/moon (2).svg</file>
+    <file>feather/moon.svg</file>
+    <file>feather/more-horizontal (2).svg</file>
+    <file>feather/more-horizontal.svg</file>
+    <file>feather/more-vertical (2).svg</file>
+    <file>feather/more-vertical.svg</file>
+    <file>feather/mouse-pointer (2).svg</file>
+    <file>feather/mouse-pointer.svg</file>
+    <file>feather/move (2).svg</file>
+    <file>feather/move.svg</file>
+    <file>feather/music (2).svg</file>
+    <file>feather/music.svg</file>
+    <file>feather/navigation (2).svg</file>
+    <file>feather/navigation.svg</file>
+    <file>feather/navigation-2 (2).svg</file>
+    <file>feather/navigation-2.svg</file>
+    <file>feather/octagon (2).svg</file>
+    <file>feather/octagon.svg</file>
+    <file>feather/package (2).svg</file>
+    <file>feather/package.svg</file>
+    <file>feather/paperclip (2).svg</file>
+    <file>feather/paperclip.svg</file>
+    <file>feather/pause (2).svg</file>
+    <file>feather/pause.svg</file>
+    <file>feather/pause-circle (2).svg</file>
+    <file>feather/pause-circle.svg</file>
+    <file>feather/pen-tool (2).svg</file>
+    <file>feather/pen-tool.svg</file>
+    <file>feather/percent (2).svg</file>
+    <file>feather/percent.svg</file>
+    <file>feather/phone (2).svg</file>
+    <file>feather/phone.svg</file>
+    <file>feather/phone-call (2).svg</file>
+    <file>feather/phone-call.svg</file>
+    <file>feather/phone-forwarded (2).svg</file>
+    <file>feather/phone-forwarded.svg</file>
+    <file>feather/phone-incoming (2).svg</file>
+    <file>feather/phone-incoming.svg</file>
+    <file>feather/phone-missed (2).svg</file>
+    <file>feather/phone-missed.svg</file>
+    <file>feather/phone-off (2).svg</file>
+    <file>feather/phone-off.svg</file>
+    <file>feather/phone-outgoing (2).svg</file>
+    <file>feather/phone-outgoing.svg</file>
+    <file>feather/pie-chart (2).svg</file>
+    <file>feather/pie-chart.svg</file>
+    <file>feather/play (2).svg</file>
+    <file>feather/play.svg</file>
+    <file>feather/play-circle (2).svg</file>
+    <file>feather/play-circle.svg</file>
+    <file>feather/plus (2).svg</file>
+    <file>feather/plus.svg</file>
+    <file>feather/plus-circle (2).svg</file>
+    <file>feather/plus-circle.svg</file>
+    <file>feather/plus-square (2).svg</file>
+    <file>feather/plus-square.svg</file>
+    <file>feather/pocket (2).svg</file>
+    <file>feather/pocket.svg</file>
+    <file>feather/power (2).svg</file>
+    <file>feather/power.svg</file>
+    <file>feather/printer (2).svg</file>
+    <file>feather/printer.svg</file>
+    <file>feather/radio (2).svg</file>
+    <file>feather/radio.svg</file>
+    <file>feather/refresh-ccw (2).svg</file>
+    <file>feather/refresh-ccw.svg</file>
+    <file>feather/refresh-cw (2).svg</file>
+    <file>feather/refresh-cw.svg</file>
+    <file>feather/repeat (2).svg</file>
+    <file>feather/repeat.svg</file>
+    <file>feather/rewind (2).svg</file>
+    <file>feather/rewind.svg</file>
+    <file>feather/rotate-ccw (2).svg</file>
+    <file>feather/rotate-ccw.svg</file>
+    <file>feather/rotate-cw (2).svg</file>
+    <file>feather/rotate-cw.svg</file>
+    <file>feather/rss (2).svg</file>
+    <file>feather/rss.svg</file>
+    <file>feather/save (2).svg</file>
+    <file>feather/save.svg</file>
+    <file>feather/scissors (2).svg</file>
+    <file>feather/scissors.svg</file>
+    <file>feather/search (2).svg</file>
+    <file>feather/search.svg</file>
+    <file>feather/send (2).svg</file>
+    <file>feather/send.svg</file>
+    <file>feather/server (2).svg</file>
+    <file>feather/server.svg</file>
+    <file>feather/settings (2).svg</file>
+    <file>feather/settings.svg</file>
+    <file>feather/share (2).svg</file>
+    <file>feather/share.svg</file>
+    <file>feather/share-2 (2).svg</file>
+    <file>feather/share-2.svg</file>
+    <file>feather/shield (2).svg</file>
+    <file>feather/shield.svg</file>
+    <file>feather/shield-off (2).svg</file>
+    <file>feather/shield-off.svg</file>
+    <file>feather/shopping-bag (2).svg</file>
+    <file>feather/shopping-bag.svg</file>
+    <file>feather/shopping-cart (2).svg</file>
+    <file>feather/shopping-cart.svg</file>
+    <file>feather/shuffle (2).svg</file>
+    <file>feather/shuffle.svg</file>
+    <file>feather/sidebar (2).svg</file>
+    <file>feather/sidebar.svg</file>
+    <file>feather/skip-back (2).svg</file>
+    <file>feather/skip-back.svg</file>
+    <file>feather/skip-forward (2).svg</file>
+    <file>feather/skip-forward.svg</file>
+    <file>feather/slack (2).svg</file>
+    <file>feather/slack.svg</file>
+    <file>feather/slash (2).svg</file>
+    <file>feather/slash.svg</file>
+    <file>feather/sliders (2).svg</file>
+    <file>feather/sliders.svg</file>
+    <file>feather/smartphone (2).svg</file>
+    <file>feather/smartphone.svg</file>
+    <file>feather/smile (2).svg</file>
+    <file>feather/smile.svg</file>
+    <file>feather/speaker (2).svg</file>
+    <file>feather/speaker.svg</file>
+    <file>feather/square (2).svg</file>
+    <file>feather/square.svg</file>
+    <file>feather/star (2).svg</file>
+    <file>feather/star.svg</file>
+    <file>feather/stop-circle (2).svg</file>
+    <file>feather/stop-circle.svg</file>
+    <file>feather/sun (2).svg</file>
+    <file>feather/sun.svg</file>
+    <file>feather/sunrise (2).svg</file>
+    <file>feather/sunrise.svg</file>
+    <file>feather/sunset (2).svg</file>
+    <file>feather/sunset.svg</file>
+    <file>feather/table (2).svg</file>
+    <file>feather/table.svg</file>
+    <file>feather/tablet (2).svg</file>
+    <file>feather/tablet.svg</file>
+    <file>feather/tag (2).svg</file>
+    <file>feather/tag.svg</file>
+    <file>feather/target (2).svg</file>
+    <file>feather/target.svg</file>
+    <file>feather/terminal (2).svg</file>
+    <file>feather/terminal.svg</file>
+    <file>feather/thermometer (2).svg</file>
+    <file>feather/thermometer.svg</file>
+    <file>feather/thumbs-down (2).svg</file>
+    <file>feather/thumbs-down.svg</file>
+    <file>feather/thumbs-up (2).svg</file>
+    <file>feather/thumbs-up.svg</file>
+    <file>feather/toggle-left (2).svg</file>
+    <file>feather/toggle-left.svg</file>
+    <file>feather/toggle-right (2).svg</file>
+    <file>feather/toggle-right.svg</file>
+    <file>feather/tool (2).svg</file>
+    <file>feather/tool.svg</file>
+    <file>feather/trash (2).svg</file>
+    <file>feather/trash.svg</file>
+    <file>feather/trash-2 (2).svg</file>
+    <file>feather/trash-2.svg</file>
+    <file>feather/trello (2).svg</file>
+    <file>feather/trello.svg</file>
+    <file>feather/trending-down (2).svg</file>
+    <file>feather/trending-down.svg</file>
+    <file>feather/trending-up (2).svg</file>
+    <file>feather/trending-up.svg</file>
+    <file>feather/triangle (2).svg</file>
+    <file>feather/triangle.svg</file>
+    <file>feather/truck (2).svg</file>
+    <file>feather/truck.svg</file>
+    <file>feather/tv (2).svg</file>
+    <file>feather/tv.svg</file>
+    <file>feather/twitch (2).svg</file>
+    <file>feather/twitch.svg</file>
+    <file>feather/twitter (2).svg</file>
+    <file>feather/twitter.svg</file>
+    <file>feather/type (2).svg</file>
+    <file>feather/type.svg</file>
+    <file>feather/umbrella (2).svg</file>
+    <file>feather/umbrella.svg</file>
+    <file>feather/underline (2).svg</file>
+    <file>feather/underline.svg</file>
+    <file>feather/unlock (2).svg</file>
+    <file>feather/unlock.svg</file>
+    <file>feather/upload (2).svg</file>
+    <file>feather/upload.svg</file>
+    <file>feather/upload-cloud (2).svg</file>
+    <file>feather/upload-cloud.svg</file>
+    <file>feather/user (2).svg</file>
+    <file>feather/user.svg</file>
+    <file>feather/user-check (2).svg</file>
+    <file>feather/user-check.svg</file>
+    <file>feather/user-minus (2).svg</file>
+    <file>feather/user-minus.svg</file>
+    <file>feather/user-plus (2).svg</file>
+    <file>feather/user-plus.svg</file>
+    <file>feather/users (2).svg</file>
+    <file>feather/users.svg</file>
+    <file>feather/user-x (2).svg</file>
+    <file>feather/user-x.svg</file>
+    <file>feather/video (2).svg</file>
+    <file>feather/video.svg</file>
+    <file>feather/video-off (2).svg</file>
+    <file>feather/video-off.svg</file>
+    <file>feather/voicemail (2).svg</file>
+    <file>feather/voicemail.svg</file>
+    <file>feather/volume (2).svg</file>
+    <file>feather/volume.svg</file>
+    <file>feather/volume-1 (2).svg</file>
+    <file>feather/volume-1.svg</file>
+    <file>feather/volume-2 (2).svg</file>
+    <file>feather/volume-2.svg</file>
+    <file>feather/volume-x (2).svg</file>
+    <file>feather/volume-x.svg</file>
+    <file>feather/watch (2).svg</file>
+    <file>feather/watch.svg</file>
+    <file>feather/wifi (2).svg</file>
+    <file>feather/wifi.svg</file>
+    <file>feather/wifi-off (2).svg</file>
+    <file>feather/wifi-off.svg</file>
+    <file>feather/wind (2).svg</file>
+    <file>feather/wind.svg</file>
+    <file>feather/x (2).svg</file>
+    <file>feather/x.svg</file>
+    <file>feather/x-circle (2).svg</file>
+    <file>feather/x-circle.svg</file>
+    <file>feather/x-octagon (2).svg</file>
+    <file>feather/x-octagon.svg</file>
+    <file>feather/x-square (2).svg</file>
+    <file>feather/x-square.svg</file>
+    <file>feather/youtube (2).svg</file>
+    <file>feather/youtube.svg</file>
+    <file>feather/zap (2).svg</file>
+    <file>feather/zap.svg</file>
+    <file>feather/zap-off (2).svg</file>
+    <file>feather/zap-off.svg</file>
+    <file>feather/zoom-in (2).svg</file>
+    <file>feather/zoom-in.svg</file>
+    <file>feather/zoom-out (2).svg</file>
+    <file>feather/zoom-out.svg</file>
+  </qresource>
+</RCC>
